@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 148.78227 129.18448" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(554.71 -516.14)">
+  <g transform="matrix(.11026 0 0 .11026 -493.55 574.17)">
+   <path id="a" d="m-552.21 640.46 672.21-1164.3 672.21 1164.3z" fill="none" stroke="#030303" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+   <use width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.95441 .02999 -.02999 .95441 13.04 7.9049)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.90774 .05711 -.05711 .90774 25.484 16.43)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.86009 .0813 -.0813 .86009 37.307 25.551)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.8116 .10253 -.10253 .8116 48.482 35.241)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.76239 .12075 -.12075 .76239 58.986 45.475)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.71257 .13593 -.13593 .71257 68.795 56.225)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.66227 .14803 -.14803 .66227 77.886 67.466)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.61161 .15703 -.15703 .61161 86.237 79.171)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.5607 .1629 -.1629 .5607 93.825 91.315)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.50966 .1656 -.1656 .50966 100.63 103.87)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.45859 .1651 -.1651 .45859 106.63 116.82)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.4076 .16138 -.16138 .4076 111.81 130.13)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.35677 .15439 -.15439 .35677 116.15 143.8)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.30618 .14408 -.14408 .30618 119.62 157.81)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.25587 .13037 -.13037 .25587 122.2 172.14)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.20587 .11318 -.11318 .20587 123.86 186.83)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.15608 .09231 -.09231 .15608 124.56 201.9)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.10629 .06746 -.06746 .10629 124.27 217.44)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+   <use transform="matrix(.0558 .03792 -.03792 .0558 122.87 233.73)" width="744.09448" height="1052.3622" xlink:href="#a"/>
+  </g>
+ </g>
+</svg>
